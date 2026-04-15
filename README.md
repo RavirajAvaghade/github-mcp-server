@@ -238,7 +238,7 @@ To keep your GitHub PAT secure and reusable across different MCP hosts:
   ```
 
 </details>
-
+ follow github for more content
 ### GitHub Enterprise Server and Enterprise Cloud with data residency (ghe.com)
 
 The flag `--gh-host` and the environment variable `GITHUB_HOST` can be used to set
